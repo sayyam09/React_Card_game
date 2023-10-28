@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/React_Card_game/static/css/main.625e55e1.css",
+    "main.css": "/React_Card_game/static/css/main.4600a2f8.css",
     "main.js": "/React_Card_game/static/js/main.910248a3.js",
     "static/js/787.6b390ee9.chunk.js": "/React_Card_game/static/js/787.6b390ee9.chunk.js",
+    "static/media/strawberry.jpg": "/React_Card_game/static/media/strawberry.6fb79c2fb429f4f1c8bc.jpg",
     "index.html": "/React_Card_game/index.html",
-    "main.625e55e1.css.map": "/React_Card_game/static/css/main.625e55e1.css.map",
+    "main.4600a2f8.css.map": "/React_Card_game/static/css/main.4600a2f8.css.map",
     "main.910248a3.js.map": "/React_Card_game/static/js/main.910248a3.js.map",
     "787.6b390ee9.chunk.js.map": "/React_Card_game/static/js/787.6b390ee9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.625e55e1.css",
+    "static/css/main.4600a2f8.css",
     "static/js/main.910248a3.js"
   ]
 }
