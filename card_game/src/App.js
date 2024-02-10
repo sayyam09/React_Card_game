@@ -4,14 +4,14 @@ import Card from './Card';
 
 function App() {
   const images = [
+    'mango.jpg',
+    'orange.jpg',
     'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
-    'grapes.jpg',
+    'apple.jpg',
+    'banana.jpg',
+    'watermelon.jpg',
+    'fig.jpg',
+    'dragon_fruit.jpg',
   ];
 
   const shuffledImages = [...images, ...images].sort(() => Math.random() - 0.5);
