@@ -5,13 +5,13 @@ import Card from './Card';
 function App() {
   const images = [
     'grapes.jpg',
-    'grape.jpg',
     'grapes.jpg',
-    'grape.jpg',
-    'grape.jpg',
-    'grape.jpg',
-    'grape.jpg',
-    'grape.jpg',
+    'grapes.jpg',
+    'grapes.jpg',
+    'grapes.jpg',
+    'grapes.jpg',
+    'grapes.jpg',
+    'grapes.jpg',
   ];
 
   const shuffledImages = [...images, ...images].sort(() => Math.random() - 0.5);
